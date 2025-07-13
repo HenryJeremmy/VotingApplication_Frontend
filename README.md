@@ -328,4 +328,8 @@ Implement tests for:
 
 ## APPENDIX
 
-![Dashboard Interface](images/Vote1.png)
+![Dashboard Interface screenshots](images/Vote1.png)
+![Dashboard Interfac screenshots](images/Vote2.png)
+![Dashboard Interfac screenshots](images/Vote3.png)
+![Dashboard Interface screenshots](images/Vote4.png)
+![Dashboard Interface screenshots](images/Vote5.png)
