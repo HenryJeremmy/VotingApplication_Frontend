@@ -324,3 +324,8 @@ Implement tests for:
 4. Add API documentation using Swagger/OpenAPI
 5. Implement database migrations
 6. Add monitoring and health check endpoints
+
+
+## APPENDIX
+
+![Dashboard Interface](images/Vote1.png)
