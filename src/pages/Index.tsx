@@ -23,7 +23,7 @@ const Index: React.FC = () => {
               </Button>
             </Link>
             <Link to="/login">
-              <Button variant="outline" className="border-2 border-white text-white hover:bg-white/10 px-8 py-6 text-lg rounded-md">
+              <Button variant="outline" className="border-2 border-white text-vote-primary hover:bg-white/10 px-8 py-6 text-lg rounded-md">
                 Login
               </Button>
             </Link>
